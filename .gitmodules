@@ -1,0 +1,3 @@
+[submodule "ts-framework"]
+  path = projects/ts-framework
+  url = https://github.com/thallesnct/ts-framework.git
